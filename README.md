@@ -1,1 +1,3 @@
 # WeightTracker
+
+Personal Project
